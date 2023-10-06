@@ -1,0 +1,29 @@
+body{
+    background-color: lightblue;
+    background-image:url(angkasa.jpg);
+    background-repeat: no-repeat;
+    background position: top ;
+}
+h1{
+    font-family: "Times New Roman", Times, serif;
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+    color: chartreuse;
+    text-indent: 30px;
+}
+h2 {
+    text-align: center;
+    color: aqua;
+    text-transform: initial;
+    color: brown;
+}
+h3 {
+    text-align: center;
+    text-decoration: line-through;
+}
+p {
+    text-align: justify;
+    color: black;
+    letter-spacing: normal;
+}
